@@ -10,7 +10,7 @@ const dbJsonPath = path.join(__dirname, './db/db.json');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// SETS UP THE EXPRESS APP WITH DATA PARSING
+// SETS UP DATA FOR THE EXPRESS APP
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
@@ -53,4 +53,4 @@ app.delete('/api/notes/:id', (req, res) => {
 });
 
 // INITIATE SERVER LISTENING
-app.listen(PORT, () => console.log(`App listening on PORT ${PORT}`));
+app.listen(PORT, () => console.log(`Listening on PORT:${PORT}, available at http//localhost:${PORT}`));
