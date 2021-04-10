@@ -2,7 +2,7 @@
 - An application called Note Taker that can be used to write and save notes.
 
 ## Link
-Launch the app ---> [here](https://fast-tundra-99807.herokuapp.com/)
+Launch the app ---> [here](https://express-note-taker-js.herokuapp.com/)
 
 ## User Story
 
