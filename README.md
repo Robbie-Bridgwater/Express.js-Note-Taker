@@ -55,4 +55,3 @@ My GitHub username is Robbie-Bridgwater
 ![image](public/assets/img/screenshot.png)
 =======
 Link to my GitHub Profile ---> https://github.com/Robbie-Bridgwater
->>>>>>> edde600a5a117aaa19f15c0886d2b476023eae49
