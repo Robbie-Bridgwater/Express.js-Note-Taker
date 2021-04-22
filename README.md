@@ -37,7 +37,7 @@ You may do either of the following:
 ## Screenshots
 Application in action --->
 
-![image](app/public/assets/img/screenshot.png)
+![image](public/assets/img/screenshot.png)
 
 ## License
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
@@ -52,6 +52,4 @@ Please contact me through my GitHub provided below if you have any questions rel
 
 My GitHub username is Robbie-Bridgwater
 
-![image](public/assets/img/screenshot.png)
-=======
 Link to my GitHub Profile ---> https://github.com/Robbie-Bridgwater
