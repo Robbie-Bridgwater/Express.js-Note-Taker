@@ -52,7 +52,6 @@ Please contact me through my GitHub provided below if you have any questions rel
 
 My GitHub username is Robbie-Bridgwater
 
-<<<<<<< HEAD
 ![image](public/assets/img/screenshot.png)
 =======
 Link to my GitHub Profile ---> https://github.com/Robbie-Bridgwater
