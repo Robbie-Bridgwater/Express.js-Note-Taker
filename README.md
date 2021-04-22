@@ -35,4 +35,4 @@ Launch the app ---> [here](https://express-note-taker-js.herokuapp.com/)
 ## Screenshots
 Sample of generated README --->
 
-![image](app/public/assets/img/screenshot.png)
+![image](public/assets/img/screenshot.png)
