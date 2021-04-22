@@ -1,38 +1,59 @@
 # Express.js-Note-Taker
-- An application called Note Taker that can be used to write and save notes.
+An application called Note Taker that can be used to write and save notes.
 
-## Link
-Launch the app ---> [here](https://express-note-taker-js.herokuapp.com/)
+## Contents
+Section | Description
+------------ | -------------
+[Deployment](#Deployment) | Link to the Deployed Heroku Application
+[Technologies](#Technologies) | Technologies Used
+[Installation](#Installation) | Installation Information
+[Usage](#Usage) | How to use the application
+[Screenshots](#Screenshots) | Screenshots of the deployed application
+[Licence](#licence) | Licence for the source code
+[Questions](#Questions?) | Where you can reach me
 
-## User Story
+## Deployment
+OPEN NOTE-TAKER ---> [HERE](https://express-note-taker-js.herokuapp.com/)
 
-- AS A small business owner
-- I WANT to be able to write and save notes
-- SO THAT I can organize my thoughts and keep track of tasks I need to complete
+## Technologies Used
 
-## Acceptance Criteria
-- GIVEN a note-taking application
-- WHEN I open the Note Taker
-- THEN I am presented with a landing page with a link to a notes page
-- WHEN I click on the link to the notes page
-- THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
-- WHEN I enter a new note title and the note’s text
-- THEN a Save icon appears in the navigation at the top of the page
-- WHEN I click on the Save icon
-- THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes
-- WHEN I click on an existing note in the list in the left-hand column
-- THEN that note appears in the right-hand column
-- WHEN I click on the Write icon in the navigation at the top of the page
-- THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+- XAMPP / MySQL
+- MySQl workbench
+- Javascript
+- Heroku
+- CSS
 
+## Installation
+ To run this application locally, do the following:
+ - (i) Clone this repository from GitHub
+- (ii) This app contains a package.json so you just need to run `npm i` from the root directory to install the relative node packages
+- (iii) run `npm start` in the terminal from the root directory 
 
-
-## Languages Used
-- HTML 
-- CSS 
-- JavaScript
+## Usage
+You may do either of the following:
+* Follow the installation instructions above to run the app on your local device.
+* Use the deployed Heroku app, found at the top of this README
 
 ## Screenshots
-Sample of generated README --->
+Application in action --->
 
+![image](app/public/assets/img/screenshot.png)
+
+## License
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
+> This project was created under the standard MIT licence.
+
+> [Learn more about this licence.](https://lbesson.mit-license.org/)
+
+## Questions?
+
+Please contact me through my GitHub provided below if you have any questions relating to how the application works or any of my other projects
+
+My GitHub username is Robbie-Bridgwater
+
+<<<<<<< HEAD
 ![image](public/assets/img/screenshot.png)
+=======
+Link to my GitHub Profile ---> https://github.com/Robbie-Bridgwater
+>>>>>>> edde600a5a117aaa19f15c0886d2b476023eae49
